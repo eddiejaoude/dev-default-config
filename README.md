@@ -1,4 +1,4 @@
 # Config
 
-Vim `~/.vimrc`
-Xdebug 
+* Vim `~/.vimrc`
+* Xdebug 
